@@ -1,5 +1,4 @@
-# Personal-Finance-Tracker
-To Track your daily expanses
+    # Finance Tracker
 
 A personal finance tracking application built with Next.js and React.
 
